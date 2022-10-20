@@ -88,8 +88,11 @@ body{
     border-radius: 5px;
 }
 #selectall{
-    color: var(--Blue);
+    color: var(--Dark-grayish-blue);
     cursor: pointer;
+}
+#selectall:hover{
+    color: var(--Blue);
 }
 
 /*Notification Box*/
